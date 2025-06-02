@@ -1,1 +1,7 @@
+open file and coppy string
 
+convert utf-8 ,utf-16,utf-32  to hexadecimal   
+ https://www.infyways.com/tools/utf-converter/
+
+convert from hexadecimal to string or ascci     
+https://www.rapidtables.com/convert/number/hex-to-ascii.html
